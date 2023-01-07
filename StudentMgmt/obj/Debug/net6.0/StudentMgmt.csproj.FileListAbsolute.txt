@@ -29,3 +29,8 @@ C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\obj\Debug\net6.0\refint\Stud
 C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\obj\Debug\net6.0\StudentMgmt.pdb
 C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\obj\Debug\net6.0\StudentMgmt.genruntimeconfig.cache
 C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\obj\Debug\net6.0\ref\StudentMgmt.dll
+C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\bin\Debug\net6.0\Infomax.Models.dll
+C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\bin\Debug\net6.0\Infomax.Services.dll
+C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\bin\Debug\net6.0\Infomax.Services.pdb
+C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\bin\Debug\net6.0\Infomax.Models.pdb
+C:\Users\Amrit\source\repos\StudentMgmt\StudentMgmt\obj\Debug\net6.0\StudentMgmt.csproj.CopyComplete

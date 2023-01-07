@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "StudentMgmt/1.0.0": {
+        "dependencies": {
+          "Infomax.Services": "1.0.0"
+        },
         "runtime": {
           "StudentMgmt.dll": {}
+        }
+      },
+      "Infomax.Models/1.0.0": {
+        "runtime": {
+          "Infomax.Models.dll": {}
+        }
+      },
+      "Infomax.Services/1.0.0": {
+        "dependencies": {
+          "Infomax.Models": "1.0.0"
+        },
+        "runtime": {
+          "Infomax.Services.dll": {}
         }
       }
     }
   },
   "libraries": {
     "StudentMgmt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infomax.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infomax.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
