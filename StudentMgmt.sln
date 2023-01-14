@@ -5,9 +5,9 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentMgmt", "StudentMgmt\StudentMgmt.csproj", "{6F20EF60-621E-4965-9F58-234E578FE54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infomax.Models", "Infomax.Models\Infomax.Models.csproj", "{E757AED0-EA25-4335-A7ED-B5B335AEFF6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infomax.Models", "Infomax.Models\Infomax.Models.csproj", "{E757AED0-EA25-4335-A7ED-B5B335AEFF6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infomax.Services", "Infomax.Services\Infomax.Services.csproj", "{B30F56C2-FDCF-417A-B7D1-4A82589B9A76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infomax.Services", "Infomax.Services\Infomax.Services.csproj", "{B30F56C2-FDCF-417A-B7D1-4A82589B9A76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
